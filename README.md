@@ -1,5 +1,5 @@
 # .skora
-Sebuah ide bahasa teks notasi skor musik untuk dirender atau disintesis. *Ini hanya ide bukan kode*, saya harap di antara pembaca ada yang mewujudkannya menjadi kode atau aplikasi yang bisa dieksekusi.
+Sebuah ide bahasa teks notasi skor musik untuk di-*render* atau disintesis. *Ini hanya ide bukan kode*, saya harap di antara pembaca ada yang mewujudkannya menjadi kode atau aplikasi yang bisa dieksekusi.
 
 # `.skora` Dasar
 
